@@ -85,17 +85,10 @@ input{
 @media screen and (max-width: 450px){
     .question{
         font-size: 18px;
-        width: 200px;
+        width: 250px;
         height: 100px;
         padding-top: 20px;
         padding-left: 10px;
         padding-right: 10px;
-    }
-
-    .btn-valid,
-    .btn-next,
-    .btn-menu{
-        font-size: 18px;
-        padding: 8px 20px;
     }
 }

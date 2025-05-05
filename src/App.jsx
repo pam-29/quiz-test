@@ -19,7 +19,7 @@ function App() {
       )}
 
     <div>
-        { jouer && <button onClick={() => setJouer(false)} className='btn-play'> Retour </button>}
+        { jouer && <button onClick={() => setJouer(false)} className='btn-return'> Retour </button>}
     
     {
       !jouer ? ( <button onClick={()=> setJouer(true)} className='btn-play'> Jouer </button> ) : (<Enigme retourMenu={retourMenu} />)

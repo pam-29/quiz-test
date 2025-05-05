@@ -9,7 +9,8 @@
   justify-content: center;
 }
 
-.btn-play{
+.btn-play,
+.btn-return{
   font-size: 30px;
   padding: 20px 50px;
   background-color: #D72638;
@@ -26,20 +27,20 @@
       width: 450px;
     }
 
-    .btn-play{
+    .btn-play,
+    .btn-return{
       font-size: 20px;
       padding: 10px 30px;
+    }
+
+    .btn-return{
+      margin-top: 100Px;
     }
 }
 
 @media screen and (max-width: 450px){
   .logo img {
-    margin-top: 50px;
-    width: 200px;
-  }
-
-  .btn-play{
-    font-size: 18px;
-    padding: 8px 20px;
+    margin-top: 200px;
+    width: 300px;
   }
 }
