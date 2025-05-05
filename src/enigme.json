@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "J'ai des aiguilles mais je ne couds pas. Qui suis-je ?",
+        "reponse": "montre"
+    },
+    {
+        "id": 2,
+        "question": "On me casse avant de me manger. Qui suis-je ?",
+        "reponse": "oeuf"
+    },
+    {
+        "id": 3,
+        "question": "Plus je suis chaud, plus je deviens petit. Qui suis-je ?",
+        "reponse": "bougie"
+    },
+    {
+        "id": 4,
+        "question": "Je peux remplir une piece sans prendre d'espace. Qui suis-je ?",
+        "reponse": "lumiere"
+    },
+    {
+        "id": 5,
+        "question": "Plus je seche, plus je mouille. Qui suis-je ?",
+        "reponse": "serviette"
+    },
+    {
+        "id": 6,
+        "question": "Je peux etre casse sans etre touche. Qui suis-je ?",
+        "reponse": "promesse"
+    },
+    {
+        "id": 7,
+        "question": "J'ai une cle mais pas de serrure. Qui suis-je ?",
+        "reponse": "piano"
+    },
+    {
+        "id": 8,
+        "question": "Je monte sans jamais descendre. Qui suis-je ?",
+        "reponse": "age"
+    },
+    {
+        "id": 9,
+        "question": "Je n'ai pas d'ailes mais je peux voler. Qui suis-je ?",
+        "reponse": "temps"
+    },
+    {
+        "id": 10,
+        "question": "Donne-moi a manger et je vivrai. Donne-moi a boire et je mourrai. Qui suis-je?",
+        "reponse": "feu"
+    } 
+]

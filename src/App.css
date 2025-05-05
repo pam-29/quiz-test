@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'modak', sans-serif;
+  src: url(./fonts/PORKYS_.TTF);
+  font-weight: normal;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+}
+
+.btn-play{
+  font-size: 30px;
+  padding: 20px 50px;
+  background-color: #D72638;
+  color: #FDFDFD;
+  letter-spacing: 2px;
+  border: solid 10px #FFDE59;
+  border-radius: 20px;
+  display: block;
+  margin: 50px auto;
+}
+
+@media screen and (max-width: 800px){
+    .logo img {
+      width: 450px;
+    }
+
+    .btn-play{
+      font-size: 20px;
+      padding: 10px 30px;
+    }
+}
+
+@media screen and (max-width: 450px){
+  .logo img {
+    margin-top: 50px;
+    width: 200px;
+  }
+
+  .btn-play{
+    font-size: 18px;
+    padding: 8px 20px;
+  }
+}
